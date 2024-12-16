@@ -1,3 +1,1 @@
-"# ToDoList" 
-"# TodoList-f-" 
-"# ToDoList" 
+A simple To-Do List app built to practice DOM and BOM concepts in JavaScript. This project demonstrates dynamic HTML element creation, event handling, and storing data in localStorage. It is intended for learning purposes only, not for production use.
